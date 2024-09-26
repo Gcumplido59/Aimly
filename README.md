@@ -1,1 +1,1 @@
-This web page was made at the HackMTY 2024, the purpose of this web page is to demostrate the capabilities of Oracle APEX by making an Habit Tracker
+This web page was created at HackMTY 2024. The purpose of this page is to demonstrate the capabilities of Oracle APEX by creating a Habit Tracker. In this habit tracker, users can monitor their progress through graphical statistics and share them with friends and family. Additionally, motivation is enhanced by competitiveness through a points system that allows users to see rankings among their friends.
